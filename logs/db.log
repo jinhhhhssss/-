@@ -1,0 +1,1691 @@
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.047) 
+            SELECT kc.`constraint_name`, kc.`column_name`,
+                kc.`referenced_table_name`, kc.`referenced_column_name`,
+                c.`constraint_type`
+            FROM
+                information_schema.key_column_usage AS kc,
+                information_schema.table_constraints AS c
+            WHERE
+                kc.table_schema = DATABASE() AND
+                (
+                    kc.referenced_table_schema = DATABASE() OR
+                    kc.referenced_table_schema IS NULL
+                ) AND
+                c.table_schema = kc.table_schema AND
+                c.constraint_name = kc.constraint_name AND
+                c.constraint_type != 'CHECK' AND
+                kc.table_name = 'ecommerce_cartitem'
+            ORDER BY kc.`ordinal_position`
+        ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT  table_collation
+            FROM    information_schema.tables
+            WHERE   table_schema = DATABASE()
+            AND     table_name = 'ecommerce_cartitem'
+            ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT
+                column_name, data_type, character_maximum_length,
+                numeric_precision, numeric_scale, extra, column_default,
+                CASE
+                    WHEN collation_name = 'utf8mb4_0900_ai_ci' THEN NULL
+                    ELSE collation_name
+                END AS collation_name,
+                CASE
+                    WHEN column_type LIKE '% unsigned' THEN 1
+                    ELSE 0
+                END AS is_unsigned,
+                column_comment
+            FROM information_schema.columns
+            WHERE table_name = 'ecommerce_cartitem' AND table_schema = DATABASE()
+            ; args=['utf8mb4_0900_ai_ci', 'ecommerce_cartitem']; alias=default
+DEBUG (0.000) SELECT * FROM `ecommerce_cartitem` LIMIT 1; args=None; alias=default
+DEBUG (0.000) 
+                    SELECT cc.constraint_name, cc.check_clause
+                    FROM
+                        information_schema.check_constraints AS cc,
+                        information_schema.table_constraints AS tc
+                    WHERE
+                        cc.constraint_schema = DATABASE() AND
+                        tc.table_schema = cc.constraint_schema AND
+                        cc.constraint_name = tc.constraint_name AND
+                        tc.constraint_type = 'CHECK' AND
+                        tc.table_name = 'ecommerce_cartitem'
+                ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) SHOW INDEX FROM `ecommerce_cartitem`; args=None; alias=default
+DEBUG CREATE INDEX `ecommerce_cartitem_user_id_9df11d06` ON `ecommerce_cartitem` (`user_id`); (params ())
+DEBUG (0.062) CREATE INDEX `ecommerce_cartitem_user_id_9df11d06` ON `ecommerce_cartitem` (`user_id`); args=(); alias=default
+DEBUG (0.000) 
+            SELECT kc.`constraint_name`, kc.`column_name`,
+                kc.`referenced_table_name`, kc.`referenced_column_name`,
+                c.`constraint_type`
+            FROM
+                information_schema.key_column_usage AS kc,
+                information_schema.table_constraints AS c
+            WHERE
+                kc.table_schema = DATABASE() AND
+                (
+                    kc.referenced_table_schema = DATABASE() OR
+                    kc.referenced_table_schema IS NULL
+                ) AND
+                c.table_schema = kc.table_schema AND
+                c.constraint_name = kc.constraint_name AND
+                c.constraint_type != 'CHECK' AND
+                kc.table_name = 'ecommerce_cartitem'
+            ORDER BY kc.`ordinal_position`
+        ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT  table_collation
+            FROM    information_schema.tables
+            WHERE   table_schema = DATABASE()
+            AND     table_name = 'ecommerce_cartitem'
+            ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT
+                column_name, data_type, character_maximum_length,
+                numeric_precision, numeric_scale, extra, column_default,
+                CASE
+                    WHEN collation_name = 'utf8mb4_0900_ai_ci' THEN NULL
+                    ELSE collation_name
+                END AS collation_name,
+                CASE
+                    WHEN column_type LIKE '% unsigned' THEN 1
+                    ELSE 0
+                END AS is_unsigned,
+                column_comment
+            FROM information_schema.columns
+            WHERE table_name = 'ecommerce_cartitem' AND table_schema = DATABASE()
+            ; args=['utf8mb4_0900_ai_ci', 'ecommerce_cartitem']; alias=default
+DEBUG (0.000) SELECT * FROM `ecommerce_cartitem` LIMIT 1; args=None; alias=default
+DEBUG (0.000) 
+                    SELECT cc.constraint_name, cc.check_clause
+                    FROM
+                        information_schema.check_constraints AS cc,
+                        information_schema.table_constraints AS tc
+                    WHERE
+                        cc.constraint_schema = DATABASE() AND
+                        tc.table_schema = cc.constraint_schema AND
+                        cc.constraint_name = tc.constraint_name AND
+                        tc.constraint_type = 'CHECK' AND
+                        tc.table_name = 'ecommerce_cartitem'
+                ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) SHOW INDEX FROM `ecommerce_cartitem`; args=None; alias=default
+DEBUG ALTER TABLE `ecommerce_cartitem` DROP INDEX `ecommerce_cartitem_user_id_product_id_30cd1a3c_uniq`; (params ())
+DEBUG (0.016) ALTER TABLE `ecommerce_cartitem` DROP INDEX `ecommerce_cartitem_user_id_product_id_30cd1a3c_uniq`; args=(); alias=default
+DEBUG (0.000) 
+            SELECT kc.`constraint_name`, kc.`column_name`,
+                kc.`referenced_table_name`, kc.`referenced_column_name`,
+                c.`constraint_type`
+            FROM
+                information_schema.key_column_usage AS kc,
+                information_schema.table_constraints AS c
+            WHERE
+                kc.table_schema = DATABASE() AND
+                (
+                    kc.referenced_table_schema = DATABASE() OR
+                    kc.referenced_table_schema IS NULL
+                ) AND
+                c.table_schema = kc.table_schema AND
+                c.constraint_name = kc.constraint_name AND
+                c.constraint_type != 'CHECK' AND
+                kc.table_name = 'ecommerce_cartitem'
+            ORDER BY kc.`ordinal_position`
+        ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT  table_collation
+            FROM    information_schema.tables
+            WHERE   table_schema = DATABASE()
+            AND     table_name = 'ecommerce_cartitem'
+            ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT
+                column_name, data_type, character_maximum_length,
+                numeric_precision, numeric_scale, extra, column_default,
+                CASE
+                    WHEN collation_name = 'utf8mb4_0900_ai_ci' THEN NULL
+                    ELSE collation_name
+                END AS collation_name,
+                CASE
+                    WHEN column_type LIKE '% unsigned' THEN 1
+                    ELSE 0
+                END AS is_unsigned,
+                column_comment
+            FROM information_schema.columns
+            WHERE table_name = 'ecommerce_cartitem' AND table_schema = DATABASE()
+            ; args=['utf8mb4_0900_ai_ci', 'ecommerce_cartitem']; alias=default
+DEBUG (0.000) SELECT * FROM `ecommerce_cartitem` LIMIT 1; args=None; alias=default
+DEBUG (0.000) 
+                    SELECT cc.constraint_name, cc.check_clause
+                    FROM
+                        information_schema.check_constraints AS cc,
+                        information_schema.table_constraints AS tc
+                    WHERE
+                        cc.constraint_schema = DATABASE() AND
+                        tc.table_schema = cc.constraint_schema AND
+                        cc.constraint_name = tc.constraint_name AND
+                        tc.constraint_type = 'CHECK' AND
+                        tc.table_name = 'ecommerce_cartitem'
+                ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) SHOW INDEX FROM `ecommerce_cartitem`; args=None; alias=default
+DEBUG ALTER TABLE `ecommerce_cartitem` DROP FOREIGN KEY `ecommerce_cartitem_product_id_3e262274_fk_ecommerce_product_id`; (params ())
+DEBUG (0.016) ALTER TABLE `ecommerce_cartitem` DROP FOREIGN KEY `ecommerce_cartitem_product_id_3e262274_fk_ecommerce_product_id`; args=(); alias=default
+DEBUG ALTER TABLE `ecommerce_cartitem` DROP COLUMN `product_id`; (params ())
+DEBUG (0.063) ALTER TABLE `ecommerce_cartitem` DROP COLUMN `product_id`; args=(); alias=default
+DEBUG (0.000) 
+            SELECT kc.`constraint_name`, kc.`column_name`,
+                kc.`referenced_table_name`, kc.`referenced_column_name`,
+                c.`constraint_type`
+            FROM
+                information_schema.key_column_usage AS kc,
+                information_schema.table_constraints AS c
+            WHERE
+                kc.table_schema = DATABASE() AND
+                (
+                    kc.referenced_table_schema = DATABASE() OR
+                    kc.referenced_table_schema IS NULL
+                ) AND
+                c.table_schema = kc.table_schema AND
+                c.constraint_name = kc.constraint_name AND
+                c.constraint_type != 'CHECK' AND
+                kc.table_name = 'ecommerce_cartitem'
+            ORDER BY kc.`ordinal_position`
+        ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT  table_collation
+            FROM    information_schema.tables
+            WHERE   table_schema = DATABASE()
+            AND     table_name = 'ecommerce_cartitem'
+            ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT
+                column_name, data_type, character_maximum_length,
+                numeric_precision, numeric_scale, extra, column_default,
+                CASE
+                    WHEN collation_name = 'utf8mb4_0900_ai_ci' THEN NULL
+                    ELSE collation_name
+                END AS collation_name,
+                CASE
+                    WHEN column_type LIKE '% unsigned' THEN 1
+                    ELSE 0
+                END AS is_unsigned,
+                column_comment
+            FROM information_schema.columns
+            WHERE table_name = 'ecommerce_cartitem' AND table_schema = DATABASE()
+            ; args=['utf8mb4_0900_ai_ci', 'ecommerce_cartitem']; alias=default
+DEBUG (0.000) SELECT * FROM `ecommerce_cartitem` LIMIT 1; args=None; alias=default
+DEBUG (0.000) 
+                    SELECT cc.constraint_name, cc.check_clause
+                    FROM
+                        information_schema.check_constraints AS cc,
+                        information_schema.table_constraints AS tc
+                    WHERE
+                        cc.constraint_schema = DATABASE() AND
+                        tc.table_schema = cc.constraint_schema AND
+                        cc.constraint_name = tc.constraint_name AND
+                        tc.constraint_type = 'CHECK' AND
+                        tc.table_name = 'ecommerce_cartitem'
+                ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) SHOW INDEX FROM `ecommerce_cartitem`; args=None; alias=default
+DEBUG ALTER TABLE `ecommerce_cartitem` DROP FOREIGN KEY `ecommerce_cartitem_user_id_9df11d06_fk_auth_user_id`; (params ())
+DEBUG (0.015) ALTER TABLE `ecommerce_cartitem` DROP FOREIGN KEY `ecommerce_cartitem_user_id_9df11d06_fk_auth_user_id`; args=(); alias=default
+DEBUG ALTER TABLE `ecommerce_cartitem` DROP COLUMN `user_id`; (params ())
+DEBUG (0.031) ALTER TABLE `ecommerce_cartitem` DROP COLUMN `user_id`; args=(); alias=default
+DEBUG DROP TABLE `ecommerce_category` CASCADE; (params ())
+DEBUG (0.016) DROP TABLE `ecommerce_category` CASCADE; args=(); alias=default
+DEBUG ALTER TABLE `ecommerce_order` ADD COLUMN `order_number` varchar(50) DEFAULT %s NOT NULL UNIQUE; (params ['ORD-8FA8437C'])
+DEBUG (0.047) ALTER TABLE `ecommerce_order` ADD COLUMN `order_number` varchar(50) DEFAULT 'ORD-8FA8437C' NOT NULL UNIQUE; args=['ORD-8FA8437C']; alias=default
+DEBUG ALTER TABLE `ecommerce_order` ALTER COLUMN `order_number` DROP DEFAULT; (params [])
+DEBUG (0.016) ALTER TABLE `ecommerce_order` ALTER COLUMN `order_number` DROP DEFAULT; args=[]; alias=default
+DEBUG ALTER TABLE `ecommerce_order` ADD COLUMN `total_amount` numeric(10, 2) DEFAULT %s NOT NULL; (params [Decimal('0')])
+DEBUG (0.046) ALTER TABLE `ecommerce_order` ADD COLUMN `total_amount` numeric(10, 2) DEFAULT 0 NOT NULL; args=[Decimal('0')]; alias=default
+DEBUG ALTER TABLE `ecommerce_order` ALTER COLUMN `total_amount` DROP DEFAULT; (params [])
+DEBUG (0.016) ALTER TABLE `ecommerce_order` ALTER COLUMN `total_amount` DROP DEFAULT; args=[]; alias=default
+DEBUG ALTER TABLE `ecommerce_orderitem` ADD COLUMN `failure_reason` longtext NULL; (params None)
+DEBUG (0.063) ALTER TABLE `ecommerce_orderitem` ADD COLUMN `failure_reason` longtext NULL; args=None; alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.015) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) 
+            SELECT kc.`constraint_name`, kc.`column_name`,
+                kc.`referenced_table_name`, kc.`referenced_column_name`,
+                c.`constraint_type`
+            FROM
+                information_schema.key_column_usage AS kc,
+                information_schema.table_constraints AS c
+            WHERE
+                kc.table_schema = DATABASE() AND
+                (
+                    kc.referenced_table_schema = DATABASE() OR
+                    kc.referenced_table_schema IS NULL
+                ) AND
+                c.table_schema = kc.table_schema AND
+                c.constraint_name = kc.constraint_name AND
+                c.constraint_type != 'CHECK' AND
+                kc.table_name = 'ecommerce_cartitem'
+            ORDER BY kc.`ordinal_position`
+        ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT  table_collation
+            FROM    information_schema.tables
+            WHERE   table_schema = DATABASE()
+            AND     table_name = 'ecommerce_cartitem'
+            ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT
+                column_name, data_type, character_maximum_length,
+                numeric_precision, numeric_scale, extra, column_default,
+                CASE
+                    WHEN collation_name = 'utf8mb4_0900_ai_ci' THEN NULL
+                    ELSE collation_name
+                END AS collation_name,
+                CASE
+                    WHEN column_type LIKE '% unsigned' THEN 1
+                    ELSE 0
+                END AS is_unsigned,
+                column_comment
+            FROM information_schema.columns
+            WHERE table_name = 'ecommerce_cartitem' AND table_schema = DATABASE()
+            ; args=['utf8mb4_0900_ai_ci', 'ecommerce_cartitem']; alias=default
+DEBUG (0.000) SELECT * FROM `ecommerce_cartitem` LIMIT 1; args=None; alias=default
+DEBUG (0.016) 
+                    SELECT cc.constraint_name, cc.check_clause
+                    FROM
+                        information_schema.check_constraints AS cc,
+                        information_schema.table_constraints AS tc
+                    WHERE
+                        cc.constraint_schema = DATABASE() AND
+                        tc.table_schema = cc.constraint_schema AND
+                        cc.constraint_name = tc.constraint_name AND
+                        tc.constraint_type = 'CHECK' AND
+                        tc.table_name = 'ecommerce_cartitem'
+                ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) SHOW INDEX FROM `ecommerce_cartitem`; args=None; alias=default
+DEBUG (0.000) 
+            SELECT kc.`constraint_name`, kc.`column_name`,
+                kc.`referenced_table_name`, kc.`referenced_column_name`,
+                c.`constraint_type`
+            FROM
+                information_schema.key_column_usage AS kc,
+                information_schema.table_constraints AS c
+            WHERE
+                kc.table_schema = DATABASE() AND
+                (
+                    kc.referenced_table_schema = DATABASE() OR
+                    kc.referenced_table_schema IS NULL
+                ) AND
+                c.table_schema = kc.table_schema AND
+                c.constraint_name = kc.constraint_name AND
+                c.constraint_type != 'CHECK' AND
+                kc.table_name = 'ecommerce_cartitem'
+            ORDER BY kc.`ordinal_position`
+        ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT  table_collation
+            FROM    information_schema.tables
+            WHERE   table_schema = DATABASE()
+            AND     table_name = 'ecommerce_cartitem'
+            ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) 
+            SELECT
+                column_name, data_type, character_maximum_length,
+                numeric_precision, numeric_scale, extra, column_default,
+                CASE
+                    WHEN collation_name = 'utf8mb4_0900_ai_ci' THEN NULL
+                    ELSE collation_name
+                END AS collation_name,
+                CASE
+                    WHEN column_type LIKE '% unsigned' THEN 1
+                    ELSE 0
+                END AS is_unsigned,
+                column_comment
+            FROM information_schema.columns
+            WHERE table_name = 'ecommerce_cartitem' AND table_schema = DATABASE()
+            ; args=['utf8mb4_0900_ai_ci', 'ecommerce_cartitem']; alias=default
+DEBUG (0.000) SELECT * FROM `ecommerce_cartitem` LIMIT 1; args=None; alias=default
+DEBUG (0.000) 
+                    SELECT cc.constraint_name, cc.check_clause
+                    FROM
+                        information_schema.check_constraints AS cc,
+                        information_schema.table_constraints AS tc
+                    WHERE
+                        cc.constraint_schema = DATABASE() AND
+                        tc.table_schema = cc.constraint_schema AND
+                        cc.constraint_name = tc.constraint_name AND
+                        tc.constraint_type = 'CHECK' AND
+                        tc.table_name = 'ecommerce_cartitem'
+                ; args=['ecommerce_cartitem']; alias=default
+DEBUG (0.000) SHOW INDEX FROM `ecommerce_cartitem`; args=None; alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) SET FOREIGN_KEY_CHECKS = 0;; args=None; alias=default
+DEBUG (0.047) TRUNCATE `django_admin_log`;; args=None; alias=default
+DEBUG (0.031) TRUNCATE `auth_group`;; args=None; alias=default
+DEBUG (0.047) TRUNCATE `ecommerce_product`;; args=None; alias=default
+DEBUG (0.031) TRUNCATE `auth_user_user_permissions`;; args=None; alias=default
+DEBUG (0.032) TRUNCATE `auth_permission`;; args=None; alias=default
+DEBUG (0.047) TRUNCATE `django_content_type`;; args=None; alias=default
+DEBUG (0.078) TRUNCATE `ecommerce_orderitem`;; args=None; alias=default
+DEBUG (0.031) TRUNCATE `auth_group_permissions`;; args=None; alias=default
+DEBUG (0.047) TRUNCATE `auth_user`;; args=None; alias=default
+DEBUG (0.031) TRUNCATE `auth_user_groups`;; args=None; alias=default
+DEBUG (0.031) TRUNCATE `ecommerce_order`;; args=None; alias=default
+DEBUG (0.047) TRUNCATE `django_session`;; args=None; alias=default
+DEBUG (0.000) SET FOREIGN_KEY_CHECKS = 1;; args=None; alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'admin'; args=('admin',); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_content_type` (`app_label`, `model`) VALUES ('admin', 'logentry'); args=('admin', 'logentry'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'admin' AND `django_content_type`.`model` IN ('logentry')); args=('admin', 'logentry'); alias=default
+DEBUG (0.016) SELECT `auth_permission`.`content_type_id` AS `content_type`, `auth_permission`.`codename` AS `codename` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `auth_permission`.`content_type_id` IN (1) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, 2 ASC; args=(1,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `auth_permission` (`name`, `content_type_id`, `codename`) VALUES ('Can add log entry', 1, 'add_logentry'), ('Can change log entry', 1, 'change_logentry'), ('Can delete log entry', 1, 'delete_logentry'), ('Can view log entry', 1, 'view_logentry'); args=('Can add log entry', 1, 'add_logentry', 'Can change log entry', 1, 'change_logentry', 'Can delete log entry', 1, 'delete_logentry', 'Can view log entry', 1, 'view_logentry'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'admin'; args=('admin',); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'auth'; args=('auth',); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_content_type` (`app_label`, `model`) VALUES ('auth', 'permission'), ('auth', 'group'), ('auth', 'user'); args=('auth', 'permission', 'auth', 'group', 'auth', 'user'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'auth' AND `django_content_type`.`model` IN ('user', 'group', 'permission')); args=('auth', 'user', 'group', 'permission'); alias=default
+DEBUG (0.000) SELECT `auth_permission`.`content_type_id` AS `content_type`, `auth_permission`.`codename` AS `codename` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `auth_permission`.`content_type_id` IN (2, 3, 4) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, 2 ASC; args=(2, 3, 4); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `auth_permission` (`name`, `content_type_id`, `codename`) VALUES ('Can add permission', 2, 'add_permission'), ('Can change permission', 2, 'change_permission'), ('Can delete permission', 2, 'delete_permission'), ('Can view permission', 2, 'view_permission'), ('Can add group', 3, 'add_group'), ('Can change group', 3, 'change_group'), ('Can delete group', 3, 'delete_group'), ('Can view group', 3, 'view_group'), ('Can add user', 4, 'add_user'), ('Can change user', 4, 'change_user'), ('Can delete user', 4, 'delete_user'), ('Can view user', 4, 'view_user'); args=('Can add permission', 2, 'add_permission', 'Can change permission', 2, 'change_permission', 'Can delete permission', 2, 'delete_permission', 'Can view permission', 2, 'view_permission', 'Can add group', 3, 'add_group', 'Can change group', 3, 'change_group', 'Can delete group', 3, 'delete_group', 'Can view group', 3, 'view_group', 'Can add user', 4, 'add_user', 'Can change user', 4, 'change_user', 'Can delete user', 4, 'delete_user', 'Can view user', 4, 'view_user'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'auth'; args=('auth',); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'contenttypes'; args=('contenttypes',); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_content_type` (`app_label`, `model`) VALUES ('contenttypes', 'contenttype'); args=('contenttypes', 'contenttype'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'contenttypes' AND `django_content_type`.`model` IN ('contenttype')); args=('contenttypes', 'contenttype'); alias=default
+DEBUG (0.000) SELECT `auth_permission`.`content_type_id` AS `content_type`, `auth_permission`.`codename` AS `codename` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `auth_permission`.`content_type_id` IN (5) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, 2 ASC; args=(5,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `auth_permission` (`name`, `content_type_id`, `codename`) VALUES ('Can add content type', 5, 'add_contenttype'), ('Can change content type', 5, 'change_contenttype'), ('Can delete content type', 5, 'delete_contenttype'), ('Can view content type', 5, 'view_contenttype'); args=('Can add content type', 5, 'add_contenttype', 'Can change content type', 5, 'change_contenttype', 'Can delete content type', 5, 'delete_contenttype', 'Can view content type', 5, 'view_contenttype'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'contenttypes'; args=('contenttypes',); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'sessions'; args=('sessions',); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_content_type` (`app_label`, `model`) VALUES ('sessions', 'session'); args=('sessions', 'session'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'sessions' AND `django_content_type`.`model` IN ('session')); args=('sessions', 'session'); alias=default
+DEBUG (0.000) SELECT `auth_permission`.`content_type_id` AS `content_type`, `auth_permission`.`codename` AS `codename` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `auth_permission`.`content_type_id` IN (6) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, 2 ASC; args=(6,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `auth_permission` (`name`, `content_type_id`, `codename`) VALUES ('Can add session', 6, 'add_session'), ('Can change session', 6, 'change_session'), ('Can delete session', 6, 'delete_session'), ('Can view session', 6, 'view_session'); args=('Can add session', 6, 'add_session', 'Can change session', 6, 'change_session', 'Can delete session', 6, 'delete_session', 'Can view session', 6, 'view_session'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'sessions'; args=('sessions',); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'ecommerce'; args=('ecommerce',); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_content_type` (`app_label`, `model`) VALUES ('ecommerce', 'product'), ('ecommerce', 'order'), ('ecommerce', 'orderitem'); args=('ecommerce', 'product', 'ecommerce', 'order', 'ecommerce', 'orderitem'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'ecommerce' AND `django_content_type`.`model` IN ('order', 'orderitem', 'product')); args=('ecommerce', 'order', 'orderitem', 'product'); alias=default
+DEBUG (0.000) SELECT `auth_permission`.`content_type_id` AS `content_type`, `auth_permission`.`codename` AS `codename` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `auth_permission`.`content_type_id` IN (8, 9, 7) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, 2 ASC; args=(8, 9, 7); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `auth_permission` (`name`, `content_type_id`, `codename`) VALUES ('Can add product', 7, 'add_product'), ('Can change product', 7, 'change_product'), ('Can delete product', 7, 'delete_product'), ('Can view product', 7, 'view_product'), ('Can add order', 8, 'add_order'), ('Can change order', 8, 'change_order'), ('Can delete order', 8, 'delete_order'), ('Can view order', 8, 'view_order'), ('Can add order item', 9, 'add_orderitem'), ('Can change order item', 9, 'change_orderitem'), ('Can delete order item', 9, 'delete_orderitem'), ('Can view order item', 9, 'view_orderitem'); args=('Can add product', 7, 'add_product', 'Can change product', 7, 'change_product', 'Can delete product', 7, 'delete_product', 'Can view product', 7, 'view_product', 'Can add order', 8, 'add_order', 'Can change order', 8, 'change_order', 'Can delete order', 8, 'delete_order', 'Can view order', 8, 'view_order', 'Can add order item', 9, 'add_orderitem', 'Can change order item', 9, 'change_orderitem', 'Can delete order item', 9, 'delete_orderitem', 'Can view order item', 9, 'view_orderitem'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'ecommerce'; args=('ecommerce',); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG CREATE TABLE `django_migrations` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `app` varchar(255) NOT NULL, `name` varchar(255) NOT NULL, `applied` datetime(6) NOT NULL); (params None)
+DEBUG (0.015) CREATE TABLE `django_migrations` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `app` varchar(255) NOT NULL, `name` varchar(255) NOT NULL, `applied` datetime(6) NOT NULL); args=None; alias=default
+DEBUG CREATE TABLE `django_content_type` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `name` varchar(100) NOT NULL, `app_label` varchar(100) NOT NULL, `model` varchar(100) NOT NULL); (params None)
+DEBUG (0.016) CREATE TABLE `django_content_type` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `name` varchar(100) NOT NULL, `app_label` varchar(100) NOT NULL, `model` varchar(100) NOT NULL); args=None; alias=default
+DEBUG ALTER TABLE `django_content_type` ADD CONSTRAINT `django_content_type_app_label_model_76bd3d3b_uniq` UNIQUE (`app_label`, `model`); (params ())
+DEBUG (0.015) ALTER TABLE `django_content_type` ADD CONSTRAINT `django_content_type_app_label_model_76bd3d3b_uniq` UNIQUE (`app_label`, `model`); args=(); alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('contenttypes', '0001_initial', '2025-06-30 10:36:01.666114'); args=['contenttypes', '0001_initial', '2025-06-30 10:36:01.666114']; alias=default
+DEBUG CREATE TABLE `auth_permission` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `name` varchar(50) NOT NULL, `content_type_id` integer NOT NULL, `codename` varchar(100) NOT NULL); (params None)
+DEBUG (0.016) CREATE TABLE `auth_permission` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `name` varchar(50) NOT NULL, `content_type_id` integer NOT NULL, `codename` varchar(100) NOT NULL); args=None; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'auth_permission' AND
+                table_schema = DATABASE()
+            ; args=['auth_permission']; alias=default
+DEBUG CREATE TABLE `auth_group` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `name` varchar(80) NOT NULL UNIQUE); (params None)
+DEBUG (0.031) CREATE TABLE `auth_group` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `name` varchar(80) NOT NULL UNIQUE); args=None; alias=default
+DEBUG CREATE TABLE `auth_group_permissions` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `group_id` integer NOT NULL, `permission_id` integer NOT NULL); (params None)
+DEBUG (0.016) CREATE TABLE `auth_group_permissions` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `group_id` integer NOT NULL, `permission_id` integer NOT NULL); args=None; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'auth_group_permissions' AND
+                table_schema = DATABASE()
+            ; args=['auth_group_permissions']; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'auth_group_permissions' AND
+                table_schema = DATABASE()
+            ; args=['auth_group_permissions']; alias=default
+DEBUG CREATE TABLE `auth_user` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `password` varchar(128) NOT NULL, `last_login` datetime(6) NOT NULL, `is_superuser` bool NOT NULL, `username` varchar(30) NOT NULL UNIQUE, `first_name` varchar(30) NOT NULL, `last_name` varchar(30) NOT NULL, `email` varchar(75) NOT NULL, `is_staff` bool NOT NULL, `is_active` bool NOT NULL, `date_joined` datetime(6) NOT NULL); (params None)
+DEBUG (0.046) CREATE TABLE `auth_user` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `password` varchar(128) NOT NULL, `last_login` datetime(6) NOT NULL, `is_superuser` bool NOT NULL, `username` varchar(30) NOT NULL UNIQUE, `first_name` varchar(30) NOT NULL, `last_name` varchar(30) NOT NULL, `email` varchar(75) NOT NULL, `is_staff` bool NOT NULL, `is_active` bool NOT NULL, `date_joined` datetime(6) NOT NULL); args=None; alias=default
+DEBUG CREATE TABLE `auth_user_groups` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `user_id` integer NOT NULL, `group_id` integer NOT NULL); (params None)
+DEBUG (0.016) CREATE TABLE `auth_user_groups` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `user_id` integer NOT NULL, `group_id` integer NOT NULL); args=None; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'auth_user_groups' AND
+                table_schema = DATABASE()
+            ; args=['auth_user_groups']; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'auth_user_groups' AND
+                table_schema = DATABASE()
+            ; args=['auth_user_groups']; alias=default
+DEBUG CREATE TABLE `auth_user_user_permissions` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `user_id` integer NOT NULL, `permission_id` integer NOT NULL); (params None)
+DEBUG (0.016) CREATE TABLE `auth_user_user_permissions` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `user_id` integer NOT NULL, `permission_id` integer NOT NULL); args=None; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'auth_user_user_permissions' AND
+                table_schema = DATABASE()
+            ; args=['auth_user_user_permissions']; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'auth_user_user_permissions' AND
+                table_schema = DATABASE()
+            ; args=['auth_user_user_permissions']; alias=default
+DEBUG ALTER TABLE `auth_permission` ADD CONSTRAINT `auth_permission_content_type_id_codename_01ab375a_uniq` UNIQUE (`content_type_id`, `codename`); (params None)
+DEBUG (0.015) ALTER TABLE `auth_permission` ADD CONSTRAINT `auth_permission_content_type_id_codename_01ab375a_uniq` UNIQUE (`content_type_id`, `codename`); args=None; alias=default
+DEBUG ALTER TABLE `auth_permission` ADD CONSTRAINT `auth_permission_content_type_id_2f476e4b_fk_django_co` FOREIGN KEY (`content_type_id`) REFERENCES `django_content_type` (`id`); (params None)
+DEBUG (0.047) ALTER TABLE `auth_permission` ADD CONSTRAINT `auth_permission_content_type_id_2f476e4b_fk_django_co` FOREIGN KEY (`content_type_id`) REFERENCES `django_content_type` (`id`); args=None; alias=default
+DEBUG ALTER TABLE `auth_group_permissions` ADD CONSTRAINT `auth_group_permissions_group_id_permission_id_0cd325b0_uniq` UNIQUE (`group_id`, `permission_id`); (params None)
+DEBUG (0.016) ALTER TABLE `auth_group_permissions` ADD CONSTRAINT `auth_group_permissions_group_id_permission_id_0cd325b0_uniq` UNIQUE (`group_id`, `permission_id`); args=None; alias=default
+DEBUG ALTER TABLE `auth_group_permissions` ADD CONSTRAINT `auth_group_permissions_group_id_b120cbf9_fk_auth_group_id` FOREIGN KEY (`group_id`) REFERENCES `auth_group` (`id`); (params None)
+DEBUG (0.047) ALTER TABLE `auth_group_permissions` ADD CONSTRAINT `auth_group_permissions_group_id_b120cbf9_fk_auth_group_id` FOREIGN KEY (`group_id`) REFERENCES `auth_group` (`id`); args=None; alias=default
+DEBUG ALTER TABLE `auth_group_permissions` ADD CONSTRAINT `auth_group_permissio_permission_id_84c5c92e_fk_auth_perm` FOREIGN KEY (`permission_id`) REFERENCES `auth_permission` (`id`); (params None)
+DEBUG (0.062) ALTER TABLE `auth_group_permissions` ADD CONSTRAINT `auth_group_permissio_permission_id_84c5c92e_fk_auth_perm` FOREIGN KEY (`permission_id`) REFERENCES `auth_permission` (`id`); args=None; alias=default
+DEBUG ALTER TABLE `auth_user_groups` ADD CONSTRAINT `auth_user_groups_user_id_group_id_94350c0c_uniq` UNIQUE (`user_id`, `group_id`); (params None)
+DEBUG (0.000) ALTER TABLE `auth_user_groups` ADD CONSTRAINT `auth_user_groups_user_id_group_id_94350c0c_uniq` UNIQUE (`user_id`, `group_id`); args=None; alias=default
+DEBUG ALTER TABLE `auth_user_groups` ADD CONSTRAINT `auth_user_groups_user_id_6a12ed8b_fk_auth_user_id` FOREIGN KEY (`user_id`) REFERENCES `auth_user` (`id`); (params None)
+DEBUG (0.063) ALTER TABLE `auth_user_groups` ADD CONSTRAINT `auth_user_groups_user_id_6a12ed8b_fk_auth_user_id` FOREIGN KEY (`user_id`) REFERENCES `auth_user` (`id`); args=None; alias=default
+DEBUG ALTER TABLE `auth_user_groups` ADD CONSTRAINT `auth_user_groups_group_id_97559544_fk_auth_group_id` FOREIGN KEY (`group_id`) REFERENCES `auth_group` (`id`); (params None)
+DEBUG (0.062) ALTER TABLE `auth_user_groups` ADD CONSTRAINT `auth_user_groups_group_id_97559544_fk_auth_group_id` FOREIGN KEY (`group_id`) REFERENCES `auth_group` (`id`); args=None; alias=default
+DEBUG ALTER TABLE `auth_user_user_permissions` ADD CONSTRAINT `auth_user_user_permissions_user_id_permission_id_14a6b632_uniq` UNIQUE (`user_id`, `permission_id`); (params None)
+DEBUG (0.000) ALTER TABLE `auth_user_user_permissions` ADD CONSTRAINT `auth_user_user_permissions_user_id_permission_id_14a6b632_uniq` UNIQUE (`user_id`, `permission_id`); args=None; alias=default
+DEBUG ALTER TABLE `auth_user_user_permissions` ADD CONSTRAINT `auth_user_user_permissions_user_id_a95ead1b_fk_auth_user_id` FOREIGN KEY (`user_id`) REFERENCES `auth_user` (`id`); (params None)
+DEBUG (0.078) ALTER TABLE `auth_user_user_permissions` ADD CONSTRAINT `auth_user_user_permissions_user_id_a95ead1b_fk_auth_user_id` FOREIGN KEY (`user_id`) REFERENCES `auth_user` (`id`); args=None; alias=default
+DEBUG ALTER TABLE `auth_user_user_permissions` ADD CONSTRAINT `auth_user_user_permi_permission_id_1fbb5f2c_fk_auth_perm` FOREIGN KEY (`permission_id`) REFERENCES `auth_permission` (`id`); (params None)
+DEBUG (0.063) ALTER TABLE `auth_user_user_permissions` ADD CONSTRAINT `auth_user_user_permi_permission_id_1fbb5f2c_fk_auth_perm` FOREIGN KEY (`permission_id`) REFERENCES `auth_permission` (`id`); args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0001_initial', '2025-06-30 10:36:02.271253'); args=['auth', '0001_initial', '2025-06-30 10:36:02.271253']; alias=default
+DEBUG CREATE TABLE `django_admin_log` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `action_time` datetime(6) NOT NULL, `object_id` longtext NULL, `object_repr` varchar(200) NOT NULL, `action_flag` smallint UNSIGNED NOT NULL CHECK (`action_flag` >= 0), `change_message` longtext NOT NULL, `content_type_id` integer NULL, `user_id` integer NOT NULL); (params None)
+DEBUG (0.000) CREATE TABLE `django_admin_log` (`id` integer AUTO_INCREMENT NOT NULL PRIMARY KEY, `action_time` datetime(6) NOT NULL, `object_id` longtext NULL, `object_repr` varchar(200) NOT NULL, `action_flag` smallint UNSIGNED NOT NULL CHECK (`action_flag` >= 0), `change_message` longtext NOT NULL, `content_type_id` integer NULL, `user_id` integer NOT NULL); args=None; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'django_admin_log' AND
+                table_schema = DATABASE()
+            ; args=['django_admin_log']; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'django_admin_log' AND
+                table_schema = DATABASE()
+            ; args=['django_admin_log']; alias=default
+DEBUG ALTER TABLE `django_admin_log` ADD CONSTRAINT `django_admin_log_content_type_id_c4bce8eb_fk_django_co` FOREIGN KEY (`content_type_id`) REFERENCES `django_content_type` (`id`); (params None)
+DEBUG (0.063) ALTER TABLE `django_admin_log` ADD CONSTRAINT `django_admin_log_content_type_id_c4bce8eb_fk_django_co` FOREIGN KEY (`content_type_id`) REFERENCES `django_content_type` (`id`); args=None; alias=default
+DEBUG ALTER TABLE `django_admin_log` ADD CONSTRAINT `django_admin_log_user_id_c564eba6_fk_auth_user_id` FOREIGN KEY (`user_id`) REFERENCES `auth_user` (`id`); (params None)
+DEBUG (0.062) ALTER TABLE `django_admin_log` ADD CONSTRAINT `django_admin_log_user_id_c564eba6_fk_auth_user_id` FOREIGN KEY (`user_id`) REFERENCES `auth_user` (`id`); args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('admin', '0001_initial', '2025-06-30 10:36:02.427289'); args=['admin', '0001_initial', '2025-06-30 10:36:02.427289']; alias=default
+DEBUG (0.016) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('admin', '0002_logentry_remove_auto_add', '2025-06-30 10:36:02.436294'); args=['admin', '0002_logentry_remove_auto_add', '2025-06-30 10:36:02.436294']; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('admin', '0003_logentry_add_action_flag_choices', '2025-06-30 10:36:02.445294'); args=['admin', '0003_logentry_add_action_flag_choices', '2025-06-30 10:36:02.445294']; alias=default
+DEBUG ALTER TABLE `django_content_type` MODIFY `name` varchar(100) NULL; (params [])
+DEBUG (0.047) ALTER TABLE `django_content_type` MODIFY `name` varchar(100) NULL; args=[]; alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG ALTER TABLE `django_content_type` DROP COLUMN `name`; (params ())
+DEBUG (0.078) ALTER TABLE `django_content_type` DROP COLUMN `name`; args=(); alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('contenttypes', '0002_remove_content_type_name', '2025-06-30 10:36:02.582324'); args=['contenttypes', '0002_remove_content_type_name', '2025-06-30 10:36:02.582324']; alias=default
+DEBUG ALTER TABLE `auth_permission` MODIFY `name` varchar(255) NOT NULL; (params [])
+DEBUG (0.063) ALTER TABLE `auth_permission` MODIFY `name` varchar(255) NOT NULL; args=[]; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0002_alter_permission_name_max_length', '2025-06-30 10:36:02.649340'); args=['auth', '0002_alter_permission_name_max_length', '2025-06-30 10:36:02.649340']; alias=default
+DEBUG ALTER TABLE `auth_user` MODIFY `email` varchar(254) NOT NULL; (params [])
+DEBUG (0.016) ALTER TABLE `auth_user` MODIFY `email` varchar(254) NOT NULL; args=[]; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0003_alter_user_email_max_length', '2025-06-30 10:36:02.676345'); args=['auth', '0003_alter_user_email_max_length', '2025-06-30 10:36:02.676345']; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0004_alter_user_username_opts', '2025-06-30 10:36:02.684347'); args=['auth', '0004_alter_user_username_opts', '2025-06-30 10:36:02.684347']; alias=default
+DEBUG ALTER TABLE `auth_user` MODIFY `last_login` datetime(6) NULL; (params [])
+DEBUG (0.062) ALTER TABLE `auth_user` MODIFY `last_login` datetime(6) NULL; args=[]; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0005_alter_user_last_login_null', '2025-06-30 10:36:02.753362'); args=['auth', '0005_alter_user_last_login_null', '2025-06-30 10:36:02.753362']; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0006_require_contenttypes_0002', '2025-06-30 10:36:02.756362'); args=['auth', '0006_require_contenttypes_0002', '2025-06-30 10:36:02.756362']; alias=default
+DEBUG (0.016) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0007_alter_validators_add_error_messages', '2025-06-30 10:36:02.764364'); args=['auth', '0007_alter_validators_add_error_messages', '2025-06-30 10:36:02.764364']; alias=default
+DEBUG ALTER TABLE `auth_user` MODIFY `username` varchar(150) NOT NULL; (params [])
+DEBUG (0.062) ALTER TABLE `auth_user` MODIFY `username` varchar(150) NOT NULL; args=[]; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0008_alter_user_username_max_length', '2025-06-30 10:36:02.835614'); args=['auth', '0008_alter_user_username_max_length', '2025-06-30 10:36:02.835614']; alias=default
+DEBUG ALTER TABLE `auth_user` MODIFY `last_name` varchar(150) NOT NULL; (params [])
+DEBUG (0.062) ALTER TABLE `auth_user` MODIFY `last_name` varchar(150) NOT NULL; args=[]; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0009_alter_user_last_name_max_length', '2025-06-30 10:36:02.906630'); args=['auth', '0009_alter_user_last_name_max_length', '2025-06-30 10:36:02.906630']; alias=default
+DEBUG ALTER TABLE `auth_group` MODIFY `name` varchar(150) NOT NULL; (params [])
+DEBUG (0.016) ALTER TABLE `auth_group` MODIFY `name` varchar(150) NOT NULL; args=[]; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0010_alter_group_name_max_length', '2025-06-30 10:36:02.926633'); args=['auth', '0010_alter_group_name_max_length', '2025-06-30 10:36:02.926633']; alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.016) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0011_update_proxy_permissions', '2025-06-30 10:36:02.936637'); args=['auth', '0011_update_proxy_permissions', '2025-06-30 10:36:02.936637']; alias=default
+DEBUG ALTER TABLE `auth_user` MODIFY `first_name` varchar(150) NOT NULL; (params [])
+DEBUG (0.062) ALTER TABLE `auth_user` MODIFY `first_name` varchar(150) NOT NULL; args=[]; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('auth', '0012_alter_user_first_name_max_length', '2025-06-30 10:36:03.001650'); args=['auth', '0012_alter_user_first_name_max_length', '2025-06-30 10:36:03.001650']; alias=default
+DEBUG CREATE TABLE `ecommerce_order` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `order_number` varchar(50) NOT NULL UNIQUE, `total_amount` numeric(10, 2) NOT NULL, `status` varchar(20) NOT NULL, `created_at` datetime(6) NOT NULL, `updated_at` datetime(6) NOT NULL); (params None)
+DEBUG (0.031) CREATE TABLE `ecommerce_order` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `order_number` varchar(50) NOT NULL UNIQUE, `total_amount` numeric(10, 2) NOT NULL, `status` varchar(20) NOT NULL, `created_at` datetime(6) NOT NULL, `updated_at` datetime(6) NOT NULL); args=None; alias=default
+DEBUG CREATE TABLE `ecommerce_product` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `name` varchar(100) NOT NULL, `description` longtext NOT NULL, `price` numeric(10, 2) NOT NULL, `stock` integer NOT NULL, `is_active` bool NOT NULL, `created_at` datetime(6) NOT NULL, `updated_at` datetime(6) NOT NULL); (params None)
+DEBUG (0.016) CREATE TABLE `ecommerce_product` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `name` varchar(100) NOT NULL, `description` longtext NOT NULL, `price` numeric(10, 2) NOT NULL, `stock` integer NOT NULL, `is_active` bool NOT NULL, `created_at` datetime(6) NOT NULL, `updated_at` datetime(6) NOT NULL); args=None; alias=default
+DEBUG CREATE TABLE `ecommerce_orderitem` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `quantity` integer NOT NULL, `price_at_purchase` numeric(10, 2) NOT NULL, `status` varchar(20) NOT NULL, `failure_reason` longtext NULL, `order_id` bigint NOT NULL, `product_id` bigint NOT NULL); (params None)
+DEBUG (0.016) CREATE TABLE `ecommerce_orderitem` (`id` bigint AUTO_INCREMENT NOT NULL PRIMARY KEY, `quantity` integer NOT NULL, `price_at_purchase` numeric(10, 2) NOT NULL, `status` varchar(20) NOT NULL, `failure_reason` longtext NULL, `order_id` bigint NOT NULL, `product_id` bigint NOT NULL); args=None; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'ecommerce_orderitem' AND
+                table_schema = DATABASE()
+            ; args=['ecommerce_orderitem']; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'ecommerce_orderitem' AND
+                table_schema = DATABASE()
+            ; args=['ecommerce_orderitem']; alias=default
+DEBUG ALTER TABLE `ecommerce_orderitem` ADD CONSTRAINT `ecommerce_orderitem_order_id_626b0534_fk_ecommerce_order_id` FOREIGN KEY (`order_id`) REFERENCES `ecommerce_order` (`id`); (params None)
+DEBUG (0.047) ALTER TABLE `ecommerce_orderitem` ADD CONSTRAINT `ecommerce_orderitem_order_id_626b0534_fk_ecommerce_order_id` FOREIGN KEY (`order_id`) REFERENCES `ecommerce_order` (`id`); args=None; alias=default
+DEBUG ALTER TABLE `ecommerce_orderitem` ADD CONSTRAINT `ecommerce_orderitem_product_id_c2e62996_fk_ecommerce_product_id` FOREIGN KEY (`product_id`) REFERENCES `ecommerce_product` (`id`); (params None)
+DEBUG (0.046) ALTER TABLE `ecommerce_orderitem` ADD CONSTRAINT `ecommerce_orderitem_product_id_c2e62996_fk_ecommerce_product_id` FOREIGN KEY (`product_id`) REFERENCES `ecommerce_product` (`id`); args=None; alias=default
+DEBUG (0.016) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('ecommerce', '0001_initial', '2025-06-30 10:36:03.170994'); args=['ecommerce', '0001_initial', '2025-06-30 10:36:03.170994']; alias=default
+DEBUG CREATE TABLE `django_session` (`session_key` varchar(40) NOT NULL PRIMARY KEY, `session_data` longtext NOT NULL, `expire_date` datetime(6) NOT NULL); (params None)
+DEBUG (0.016) CREATE TABLE `django_session` (`session_key` varchar(40) NOT NULL PRIMARY KEY, `session_data` longtext NOT NULL, `expire_date` datetime(6) NOT NULL); args=None; alias=default
+DEBUG (0.000) 
+            SELECT engine
+            FROM information_schema.tables
+            WHERE
+                table_name = 'django_session' AND
+                table_schema = DATABASE()
+            ; args=['django_session']; alias=default
+DEBUG CREATE INDEX `django_session_expire_date_a5c62663` ON `django_session` (`expire_date`); (params None)
+DEBUG (0.015) CREATE INDEX `django_session_expire_date_a5c62663` ON `django_session` (`expire_date`); args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_migrations` (`app`, `name`, `applied`) VALUES ('sessions', '0001_initial', '2025-06-30 10:36:03.205001'); args=['sessions', '0001_initial', '2025-06-30 10:36:03.205001']; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'admin'; args=('admin',); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_content_type` (`app_label`, `model`) VALUES ('admin', 'logentry'); args=('admin', 'logentry'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'admin' AND `django_content_type`.`model` IN ('logentry')); args=('admin', 'logentry'); alias=default
+DEBUG (0.000) SELECT `auth_permission`.`content_type_id` AS `content_type`, `auth_permission`.`codename` AS `codename` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `auth_permission`.`content_type_id` IN (1) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, 2 ASC; args=(1,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `auth_permission` (`name`, `content_type_id`, `codename`) VALUES ('Can add log entry', 1, 'add_logentry'), ('Can change log entry', 1, 'change_logentry'), ('Can delete log entry', 1, 'delete_logentry'), ('Can view log entry', 1, 'view_logentry'); args=('Can add log entry', 1, 'add_logentry', 'Can change log entry', 1, 'change_logentry', 'Can delete log entry', 1, 'delete_logentry', 'Can view log entry', 1, 'view_logentry'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'admin'; args=('admin',); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'auth'; args=('auth',); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_content_type` (`app_label`, `model`) VALUES ('auth', 'permission'), ('auth', 'group'), ('auth', 'user'); args=('auth', 'permission', 'auth', 'group', 'auth', 'user'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.016) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'auth' AND `django_content_type`.`model` IN ('permission', 'group', 'user')); args=('auth', 'permission', 'group', 'user'); alias=default
+DEBUG (0.000) SELECT `auth_permission`.`content_type_id` AS `content_type`, `auth_permission`.`codename` AS `codename` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `auth_permission`.`content_type_id` IN (2, 3, 4) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, 2 ASC; args=(2, 3, 4); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `auth_permission` (`name`, `content_type_id`, `codename`) VALUES ('Can add permission', 2, 'add_permission'), ('Can change permission', 2, 'change_permission'), ('Can delete permission', 2, 'delete_permission'), ('Can view permission', 2, 'view_permission'), ('Can add group', 3, 'add_group'), ('Can change group', 3, 'change_group'), ('Can delete group', 3, 'delete_group'), ('Can view group', 3, 'view_group'), ('Can add user', 4, 'add_user'), ('Can change user', 4, 'change_user'), ('Can delete user', 4, 'delete_user'), ('Can view user', 4, 'view_user'); args=('Can add permission', 2, 'add_permission', 'Can change permission', 2, 'change_permission', 'Can delete permission', 2, 'delete_permission', 'Can view permission', 2, 'view_permission', 'Can add group', 3, 'add_group', 'Can change group', 3, 'change_group', 'Can delete group', 3, 'delete_group', 'Can view group', 3, 'view_group', 'Can add user', 4, 'add_user', 'Can change user', 4, 'change_user', 'Can delete user', 4, 'delete_user', 'Can view user', 4, 'view_user'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'auth'; args=('auth',); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'contenttypes'; args=('contenttypes',); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_content_type` (`app_label`, `model`) VALUES ('contenttypes', 'contenttype'); args=('contenttypes', 'contenttype'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'contenttypes' AND `django_content_type`.`model` IN ('contenttype')); args=('contenttypes', 'contenttype'); alias=default
+DEBUG (0.000) SELECT `auth_permission`.`content_type_id` AS `content_type`, `auth_permission`.`codename` AS `codename` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `auth_permission`.`content_type_id` IN (5) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, 2 ASC; args=(5,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `auth_permission` (`name`, `content_type_id`, `codename`) VALUES ('Can add content type', 5, 'add_contenttype'), ('Can change content type', 5, 'change_contenttype'), ('Can delete content type', 5, 'delete_contenttype'), ('Can view content type', 5, 'view_contenttype'); args=('Can add content type', 5, 'add_contenttype', 'Can change content type', 5, 'change_contenttype', 'Can delete content type', 5, 'delete_contenttype', 'Can view content type', 5, 'view_contenttype'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'contenttypes'; args=('contenttypes',); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'sessions'; args=('sessions',); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_content_type` (`app_label`, `model`) VALUES ('sessions', 'session'); args=('sessions', 'session'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'sessions' AND `django_content_type`.`model` IN ('session')); args=('sessions', 'session'); alias=default
+DEBUG (0.000) SELECT `auth_permission`.`content_type_id` AS `content_type`, `auth_permission`.`codename` AS `codename` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `auth_permission`.`content_type_id` IN (6) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, 2 ASC; args=(6,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `auth_permission` (`name`, `content_type_id`, `codename`) VALUES ('Can add session', 6, 'add_session'), ('Can change session', 6, 'change_session'), ('Can delete session', 6, 'delete_session'), ('Can view session', 6, 'view_session'); args=('Can add session', 6, 'add_session', 'Can change session', 6, 'change_session', 'Can delete session', 6, 'delete_session', 'Can view session', 6, 'view_session'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'sessions'; args=('sessions',); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'ecommerce'; args=('ecommerce',); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `django_content_type` (`app_label`, `model`) VALUES ('ecommerce', 'order'), ('ecommerce', 'product'), ('ecommerce', 'orderitem'); args=('ecommerce', 'order', 'ecommerce', 'product', 'ecommerce', 'orderitem'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'ecommerce' AND `django_content_type`.`model` IN ('product', 'orderitem', 'order')); args=('ecommerce', 'product', 'orderitem', 'order'); alias=default
+DEBUG (0.000) SELECT `auth_permission`.`content_type_id` AS `content_type`, `auth_permission`.`codename` AS `codename` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) WHERE `auth_permission`.`content_type_id` IN (8, 9, 7) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, 2 ASC; args=(8, 9, 7); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `auth_permission` (`name`, `content_type_id`, `codename`) VALUES ('Can add order', 7, 'add_order'), ('Can change order', 7, 'change_order'), ('Can delete order', 7, 'delete_order'), ('Can view order', 7, 'view_order'), ('Can add product', 8, 'add_product'), ('Can change product', 8, 'change_product'), ('Can delete product', 8, 'delete_product'), ('Can view product', 8, 'view_product'), ('Can add order item', 9, 'add_orderitem'), ('Can change order item', 9, 'change_orderitem'), ('Can delete order item', 9, 'delete_orderitem'), ('Can view order item', 9, 'view_orderitem'); args=('Can add order', 7, 'add_order', 'Can change order', 7, 'change_order', 'Can delete order', 7, 'delete_order', 'Can view order', 7, 'view_order', 'Can add product', 8, 'add_product', 'Can change product', 8, 'change_product', 'Can delete product', 8, 'delete_product', 'Can view product', 8, 'view_product', 'Can add order item', 9, 'add_orderitem', 'Can change order item', 9, 'change_orderitem', 'Can delete order item', 9, 'delete_orderitem', 'Can view order item', 9, 'view_orderitem'); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE `django_content_type`.`app_label` = 'ecommerce'; args=('ecommerce',); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.016) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'jin' LIMIT 21; args=('jin',); alias=default
+DEBUG (0.031) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.047) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.016) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.016) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.015) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.047) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.046) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.016) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.015) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'jin' LIMIT 21; args=('jin',); alias=default
+DEBUG (0.016) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'admin' LIMIT 21; args=('admin',); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'admin' LIMIT 21; args=('admin',); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'jin' LIMIT 21; args=('jin',); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'admin' LIMIT 21; args=('admin',); alias=default
+DEBUG (0.031) INSERT INTO `auth_user` (`password`, `last_login`, `is_superuser`, `username`, `first_name`, `last_name`, `email`, `is_staff`, `is_active`, `date_joined`) VALUES ('pbkdf2_sha256$1000000$BvLUoDgv2h6UcYZG1cesiz$VdTz+QE+K7ajbG7lW4h0nfZ3aZGNUa/wM/SBDtIzWkA=', NULL, 1, 'admin', '', '', '3280458284@qq.com', 1, 1, '2025-07-01 02:31:07.759329'); args=['pbkdf2_sha256$1000000$BvLUoDgv2h6UcYZG1cesiz$VdTz+QE+K7ajbG7lW4h0nfZ3aZGNUa/wM/SBDtIzWkA=', None, True, 'admin', '', '', '3280458284@qq.com', True, True, '2025-07-01 02:31:07.759329']; alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`username` = 'admin' LIMIT 21; args=('admin',); alias=default
+DEBUG (0.015) UPDATE `auth_user` SET `last_login` = '2025-07-01 02:31:15.269016' WHERE `auth_user`.`id` = 1; args=('2025-07-01 02:31:15.269016', 1); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.062) SELECT `django_admin_log`.`id`, `django_admin_log`.`action_time`, `django_admin_log`.`user_id`, `django_admin_log`.`content_type_id`, `django_admin_log`.`object_id`, `django_admin_log`.`object_repr`, `django_admin_log`.`action_flag`, `django_admin_log`.`change_message`, `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined`, `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_admin_log` INNER JOIN `auth_user` ON (`django_admin_log`.`user_id` = `auth_user`.`id`) LEFT OUTER JOIN `django_content_type` ON (`django_admin_log`.`content_type_id` = `django_content_type`.`id`) WHERE `django_admin_log`.`user_id` = 1 ORDER BY `django_admin_log`.`action_time` DESC LIMIT 10; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'auth' AND `django_content_type`.`model` = 'group') LIMIT 21; args=('auth', 'group'); alias=default
+DEBUG (0.015) SELECT `auth_permission`.`id`, `auth_permission`.`name`, `auth_permission`.`content_type_id`, `auth_permission`.`codename`, `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `auth_permission` INNER JOIN `django_content_type` ON (`auth_permission`.`content_type_id` = `django_content_type`.`id`) ORDER BY `django_content_type`.`app_label` ASC, `django_content_type`.`model` ASC, `auth_permission`.`codename` ASC; args=(); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `django_admin_log`.`id`, `django_admin_log`.`action_time`, `django_admin_log`.`user_id`, `django_admin_log`.`content_type_id`, `django_admin_log`.`object_id`, `django_admin_log`.`object_repr`, `django_admin_log`.`action_flag`, `django_admin_log`.`change_message`, `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined`, `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_admin_log` INNER JOIN `auth_user` ON (`django_admin_log`.`user_id` = `auth_user`.`id`) LEFT OUTER JOIN `django_content_type` ON (`django_admin_log`.`content_type_id` = `django_content_type`.`id`) WHERE `django_admin_log`.`user_id` = 1 ORDER BY `django_admin_log`.`action_time` DESC LIMIT 10; args=(1,); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `django_admin_log`.`id`, `django_admin_log`.`action_time`, `django_admin_log`.`user_id`, `django_admin_log`.`content_type_id`, `django_admin_log`.`object_id`, `django_admin_log`.`object_repr`, `django_admin_log`.`action_flag`, `django_admin_log`.`change_message`, `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined`, `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_admin_log` INNER JOIN `auth_user` ON (`django_admin_log`.`user_id` = `auth_user`.`id`) LEFT OUTER JOIN `django_content_type` ON (`django_admin_log`.`content_type_id` = `django_content_type`.`id`) WHERE `django_admin_log`.`user_id` = 1 ORDER BY `django_admin_log`.`action_time` DESC LIMIT 10; args=(1,); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `django_admin_log`.`id`, `django_admin_log`.`action_time`, `django_admin_log`.`user_id`, `django_admin_log`.`content_type_id`, `django_admin_log`.`object_id`, `django_admin_log`.`object_repr`, `django_admin_log`.`action_flag`, `django_admin_log`.`change_message`, `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined`, `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_admin_log` INNER JOIN `auth_user` ON (`django_admin_log`.`user_id` = `auth_user`.`id`) LEFT OUTER JOIN `django_content_type` ON (`django_admin_log`.`content_type_id` = `django_content_type`.`id`) WHERE `django_admin_log`.`user_id` = 1 ORDER BY `django_admin_log`.`action_time` DESC LIMIT 10; args=(1,); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.015) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `django_admin_log`.`id`, `django_admin_log`.`action_time`, `django_admin_log`.`user_id`, `django_admin_log`.`content_type_id`, `django_admin_log`.`object_id`, `django_admin_log`.`object_repr`, `django_admin_log`.`action_flag`, `django_admin_log`.`change_message`, `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined`, `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_admin_log` INNER JOIN `auth_user` ON (`django_admin_log`.`user_id` = `auth_user`.`id`) LEFT OUTER JOIN `django_content_type` ON (`django_admin_log`.`content_type_id` = `django_content_type`.`id`) WHERE `django_admin_log`.`user_id` = 1 ORDER BY `django_admin_log`.`action_time` DESC LIMIT 10; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'ecommerce' AND `django_content_type`.`model` = 'orderitem') LIMIT 21; args=('ecommerce', 'orderitem'); alias=default
+DEBUG (0.000) SELECT `ecommerce_order`.`id`, `ecommerce_order`.`order_number`, `ecommerce_order`.`total_amount`, `ecommerce_order`.`status`, `ecommerce_order`.`created_at`, `ecommerce_order`.`updated_at` FROM `ecommerce_order`; args=(); alias=default
+DEBUG (0.016) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product`; args=(); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `django_admin_log`.`id`, `django_admin_log`.`action_time`, `django_admin_log`.`user_id`, `django_admin_log`.`content_type_id`, `django_admin_log`.`object_id`, `django_admin_log`.`object_repr`, `django_admin_log`.`action_flag`, `django_admin_log`.`change_message`, `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined`, `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_admin_log` INNER JOIN `auth_user` ON (`django_admin_log`.`user_id` = `auth_user`.`id`) LEFT OUTER JOIN `django_content_type` ON (`django_admin_log`.`content_type_id` = `django_content_type`.`id`) WHERE `django_admin_log`.`user_id` = 1 ORDER BY `django_admin_log`.`action_time` DESC LIMIT 10; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.015) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'ecommerce' AND `django_content_type`.`model` = 'product') LIMIT 21; args=('ecommerce', 'product'); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_product` (`name`, `description`, `price`, `stock`, `is_active`, `created_at`, `updated_at`) VALUES ('¹ð»¨ÂÌ²è', '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', 5, 10, 1, '2025-07-01 02:36:15.327816', '2025-07-01 02:36:15.327816'); args=['¹ð»¨ÂÌ²è', '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', Decimal('5'), 10, True, '2025-07-01 02:36:15.327816', '2025-07-01 02:36:15.327816']; alias=default
+DEBUG (0.000) INSERT INTO `django_admin_log` (`action_time`, `user_id`, `content_type_id`, `object_id`, `object_repr`, `action_flag`, `change_message`) VALUES ('2025-07-01 02:36:15.332818', 1, 8, '1', '¹ð»¨ÂÌ²è', 1, '[{\"added\": {}}]'); args=['2025-07-01 02:36:15.332818', 1, 8, '1', '¹ð»¨ÂÌ²è', 1, '[{"added": {}}]']; alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.015) UPDATE `ecommerce_product` SET `name` = '¹ð»¨ÂÌ²è', `description` = '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', `price` = 5.00, `stock` = 10, `is_active` = 1, `created_at` = '2025-07-01 02:36:15.327816', `updated_at` = '2025-07-01 02:36:20.699023' WHERE `ecommerce_product`.`id` = 1; args=('¹ð»¨ÂÌ²è', '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', Decimal('5.00'), 10, True, '2025-07-01 02:36:15.327816', '2025-07-01 02:36:20.699023', 1); alias=default
+DEBUG (0.000) INSERT INTO `django_admin_log` (`action_time`, `user_id`, `content_type_id`, `object_id`, `object_repr`, `action_flag`, `change_message`) VALUES ('2025-07-01 02:36:20.706024', 1, 8, '1', '¹ð»¨ÂÌ²è', 2, '[]'); args=['2025-07-01 02:36:20.706024', 1, 8, '1', '¹ð»¨ÂÌ²è', 2, '[]']; alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) UPDATE `ecommerce_product` SET `name` = '¹ð»¨ÂÌ²è', `description` = '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', `price` = 5.00, `stock` = 10, `is_active` = 1, `created_at` = '2025-07-01 02:36:15.327816', `updated_at` = '2025-07-01 02:36:29.426983' WHERE `ecommerce_product`.`id` = 1; args=('¹ð»¨ÂÌ²è', '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', Decimal('5.00'), 10, True, '2025-07-01 02:36:15.327816', '2025-07-01 02:36:29.426983', 1); alias=default
+DEBUG (0.000) INSERT INTO `django_admin_log` (`action_time`, `user_id`, `content_type_id`, `object_id`, `object_repr`, `action_flag`, `change_message`) VALUES ('2025-07-01 02:36:29.428984', 1, 8, '1', '¹ð»¨ÂÌ²è', 2, '[]'); args=['2025-07-01 02:36:29.428984', 1, 8, '1', '¹ð»¨ÂÌ²è', 2, '[]']; alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.015) SELECT COUNT(*) AS `__count` FROM `ecommerce_product`; args=(); alias=default
+DEBUG (0.000) SELECT COUNT(*) AS `__count` FROM `ecommerce_product`; args=(); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` ORDER BY `ecommerce_product`.`id` DESC; args=(); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_product` (`name`, `description`, `price`, `stock`, `is_active`, `created_at`, `updated_at`) VALUES ('Ã¢¹ûà£à£', 'Ã¢¹ûºÃÏã', 6, 5, 1, '2025-07-01 02:37:01.841266', '2025-07-01 02:37:01.841266'); args=['Ã¢¹ûà£à£', 'Ã¢¹ûºÃÏã', Decimal('6'), 5, True, '2025-07-01 02:37:01.841266', '2025-07-01 02:37:01.841266']; alias=default
+DEBUG (0.000) INSERT INTO `django_admin_log` (`action_time`, `user_id`, `content_type_id`, `object_id`, `object_repr`, `action_flag`, `change_message`) VALUES ('2025-07-01 02:37:01.843266', 1, 8, '2', 'Ã¢¹ûà£à£', 1, '[{\"added\": {}}]'); args=['2025-07-01 02:37:01.843266', 1, 8, '2', 'Ã¢¹ûà£à£', 1, '[{"added": {}}]']; alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.016) SELECT COUNT(*) AS `__count` FROM `ecommerce_product`; args=(); alias=default
+DEBUG (0.000) SELECT COUNT(*) AS `__count` FROM `ecommerce_product`; args=(); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` ORDER BY `ecommerce_product`.`id` DESC; args=(); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.016) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_product` (`name`, `description`, `price`, `stock`, `is_active`, `created_at`, `updated_at`) VALUES ('ÄûÃÊÃÀÊ½', 'ÄûÃÊË®+ÃÀÊ½¿§·È', 9, 6, 1, '2025-07-01 02:37:40.519769', '2025-07-01 02:37:40.519769'); args=['ÄûÃÊÃÀÊ½', 'ÄûÃÊË®+ÃÀÊ½¿§·È', Decimal('9'), 6, True, '2025-07-01 02:37:40.519769', '2025-07-01 02:37:40.519769']; alias=default
+DEBUG (0.000) INSERT INTO `django_admin_log` (`action_time`, `user_id`, `content_type_id`, `object_id`, `object_repr`, `action_flag`, `change_message`) VALUES ('2025-07-01 02:37:40.521768', 1, 8, '3', 'ÄûÃÊÃÀÊ½', 1, '[{\"added\": {}}]'); args=['2025-07-01 02:37:40.521768', 1, 8, '3', 'ÄûÃÊÃÀÊ½', 1, '[{"added": {}}]']; alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.015) INSERT INTO `ecommerce_order` (`order_number`, `total_amount`, `status`, `created_at`, `updated_at`) VALUES ('765b3b50-b646-40a9-9f4d-2b5413be5162', 0, 'pending', '2025-07-01 03:06:10.022559', '2025-07-01 03:06:10.023558'); args=['765b3b50-b646-40a9-9f4d-2b5413be5162', Decimal('0'), 'pending', '2025-07-01 03:06:10.022559', '2025-07-01 03:06:10.023558']; alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21 FOR UPDATE; args=(1,); alias=default
+DEBUG (0.016) UPDATE `ecommerce_product` SET `name` = '¹ð»¨ÂÌ²è', `description` = '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', `price` = 5.00, `stock` = (`ecommerce_product`.`stock` - 2), `is_active` = 1, `created_at` = '2025-07-01 02:36:15.327816', `updated_at` = '2025-07-01 03:06:10.044562' WHERE `ecommerce_product`.`id` = 1; args=('¹ð»¨ÂÌ²è', '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', Decimal('5.00'), 2, True, '2025-07-01 02:36:15.327816', '2025-07-01 03:06:10.044562', 1); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_orderitem` (`order_id`, `product_id`, `quantity`, `price_at_purchase`, `status`, `failure_reason`) VALUES (1, 1, 2, 5.00, 'success', NULL); args=[1, 1, 2, Decimal('5.00'), 'success', None]; alias=default
+DEBUG (0.016) ROLLBACK; args=None; alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_orderitem` (`order_id`, `product_id`, `quantity`, `price_at_purchase`, `status`, `failure_reason`) VALUES (1, 1, 2, 0, 'failed', 'Î´Öª´íÎó'); args=[1, 1, 2, Decimal('0'), 'failed', 'Î´Öª´íÎó']; alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 2 LIMIT 21 FOR UPDATE; args=(2,); alias=default
+DEBUG (0.000) UPDATE `ecommerce_product` SET `name` = 'Ã¢¹ûà£à£', `description` = 'Ã¢¹ûºÃÏã', `price` = 6.00, `stock` = (`ecommerce_product`.`stock` - 1), `is_active` = 1, `created_at` = '2025-07-01 02:37:01.841266', `updated_at` = '2025-07-01 03:06:10.072569' WHERE `ecommerce_product`.`id` = 2; args=('Ã¢¹ûà£à£', 'Ã¢¹ûºÃÏã', Decimal('6.00'), 1, True, '2025-07-01 02:37:01.841266', '2025-07-01 03:06:10.072569', 2); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 2 LIMIT 21; args=(2,); alias=default
+DEBUG (0.015) INSERT INTO `ecommerce_orderitem` (`order_id`, `product_id`, `quantity`, `price_at_purchase`, `status`, `failure_reason`) VALUES (1, 2, 1, 6.00, 'success', NULL); args=[1, 2, 1, Decimal('6.00'), 'success', None]; alias=default
+DEBUG (0.000) ROLLBACK; args=None; alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_orderitem` (`order_id`, `product_id`, `quantity`, `price_at_purchase`, `status`, `failure_reason`) VALUES (1, 2, 1, 0, 'failed', 'Î´Öª´íÎó'); args=[1, 2, 1, Decimal('0'), 'failed', 'Î´Öª´íÎó']; alias=default
+DEBUG (0.000) UPDATE `ecommerce_order` SET `order_number` = '765b3b50-b646-40a9-9f4d-2b5413be5162', `total_amount` = 16.00, `status` = 'failed', `created_at` = '2025-07-01 03:06:10.022559', `updated_at` = '2025-07-01 03:06:10.082570' WHERE `ecommerce_order`.`id` = 1; args=('765b3b50-b646-40a9-9f4d-2b5413be5162', Decimal('16.00'), 'failed', '2025-07-01 03:06:10.022559', '2025-07-01 03:06:10.082570', 1); alias=default
+DEBUG (0.016) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.015) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'ecommerce' AND `django_content_type`.`model` = 'product') LIMIT 21; args=('ecommerce', 'product'); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.016) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT COUNT(*) AS `__count` FROM `ecommerce_order`; args=(); alias=default
+DEBUG (0.000) SELECT COUNT(*) AS `__count` FROM `ecommerce_order`; args=(); alias=default
+DEBUG (0.000) SELECT `ecommerce_order`.`id`, `ecommerce_order`.`order_number`, `ecommerce_order`.`total_amount`, `ecommerce_order`.`status`, `ecommerce_order`.`created_at`, `ecommerce_order`.`updated_at` FROM `ecommerce_order` ORDER BY `ecommerce_order`.`id` DESC; args=(); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.016) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `ecommerce_order`.`id`, `ecommerce_order`.`order_number`, `ecommerce_order`.`total_amount`, `ecommerce_order`.`status`, `ecommerce_order`.`created_at`, `ecommerce_order`.`updated_at` FROM `ecommerce_order` WHERE `ecommerce_order`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'ecommerce' AND `django_content_type`.`model` = 'order') LIMIT 21; args=('ecommerce', 'order'); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT COUNT(*) AS `__count` FROM `ecommerce_orderitem`; args=(); alias=default
+DEBUG (0.000) SELECT COUNT(*) AS `__count` FROM `ecommerce_orderitem`; args=(); alias=default
+DEBUG (0.000) SELECT `ecommerce_orderitem`.`id`, `ecommerce_orderitem`.`order_id`, `ecommerce_orderitem`.`product_id`, `ecommerce_orderitem`.`quantity`, `ecommerce_orderitem`.`price_at_purchase`, `ecommerce_orderitem`.`status`, `ecommerce_orderitem`.`failure_reason` FROM `ecommerce_orderitem` ORDER BY `ecommerce_orderitem`.`id` DESC; args=(); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 2 LIMIT 21; args=(2,); alias=default
+DEBUG (0.000) SELECT `ecommerce_order`.`id`, `ecommerce_order`.`order_number`, `ecommerce_order`.`total_amount`, `ecommerce_order`.`status`, `ecommerce_order`.`created_at`, `ecommerce_order`.`updated_at` FROM `ecommerce_order` WHERE `ecommerce_order`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `ecommerce_order`.`id`, `ecommerce_order`.`order_number`, `ecommerce_order`.`total_amount`, `ecommerce_order`.`status`, `ecommerce_order`.`created_at`, `ecommerce_order`.`updated_at` FROM `ecommerce_order` WHERE `ecommerce_order`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.016) SELECT `ecommerce_orderitem`.`id`, `ecommerce_orderitem`.`order_id`, `ecommerce_orderitem`.`product_id`, `ecommerce_orderitem`.`quantity`, `ecommerce_orderitem`.`price_at_purchase`, `ecommerce_orderitem`.`status`, `ecommerce_orderitem`.`failure_reason` FROM `ecommerce_orderitem` WHERE `ecommerce_orderitem`.`id` = 2 LIMIT 21; args=(2,); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `ecommerce_order`.`id`, `ecommerce_order`.`order_number`, `ecommerce_order`.`total_amount`, `ecommerce_order`.`status`, `ecommerce_order`.`created_at`, `ecommerce_order`.`updated_at` FROM `ecommerce_order` WHERE `ecommerce_order`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `django_content_type`.`id`, `django_content_type`.`app_label`, `django_content_type`.`model` FROM `django_content_type` WHERE (`django_content_type`.`app_label` = 'ecommerce' AND `django_content_type`.`model` = 'orderitem') LIMIT 21; args=('ecommerce', 'orderitem'); alias=default
+DEBUG (0.016) SELECT `ecommerce_order`.`id`, `ecommerce_order`.`order_number`, `ecommerce_order`.`total_amount`, `ecommerce_order`.`status`, `ecommerce_order`.`created_at`, `ecommerce_order`.`updated_at` FROM `ecommerce_order`; args=(); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product`; args=(); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `auth_user`.`id`, `auth_user`.`password`, `auth_user`.`last_login`, `auth_user`.`is_superuser`, `auth_user`.`username`, `auth_user`.`first_name`, `auth_user`.`last_name`, `auth_user`.`email`, `auth_user`.`is_staff`, `auth_user`.`is_active`, `auth_user`.`date_joined` FROM `auth_user` WHERE `auth_user`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT COUNT(*) AS `__count` FROM `ecommerce_orderitem`; args=(); alias=default
+DEBUG (0.000) SELECT COUNT(*) AS `__count` FROM `ecommerce_orderitem`; args=(); alias=default
+DEBUG (0.000) SELECT `ecommerce_orderitem`.`id`, `ecommerce_orderitem`.`order_id`, `ecommerce_orderitem`.`product_id`, `ecommerce_orderitem`.`quantity`, `ecommerce_orderitem`.`price_at_purchase`, `ecommerce_orderitem`.`status`, `ecommerce_orderitem`.`failure_reason` FROM `ecommerce_orderitem` ORDER BY `ecommerce_orderitem`.`id` DESC; args=(); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 2 LIMIT 21; args=(2,); alias=default
+DEBUG (0.000) SELECT `ecommerce_order`.`id`, `ecommerce_order`.`order_number`, `ecommerce_order`.`total_amount`, `ecommerce_order`.`status`, `ecommerce_order`.`created_at`, `ecommerce_order`.`updated_at` FROM `ecommerce_order` WHERE `ecommerce_order`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) SELECT `ecommerce_order`.`id`, `ecommerce_order`.`order_number`, `ecommerce_order`.`total_amount`, `ecommerce_order`.`status`, `ecommerce_order`.`created_at`, `ecommerce_order`.`updated_at` FROM `ecommerce_order` WHERE `ecommerce_order`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_order` (`order_number`, `total_amount`, `status`, `created_at`, `updated_at`) VALUES ('6efb6510-d91d-4ee8-af9c-5c2f23e6f0c4', 0, 'pending', '2025-07-01 03:19:03.755704', '2025-07-01 03:19:03.755704'); args=['6efb6510-d91d-4ee8-af9c-5c2f23e6f0c4', Decimal('0'), 'pending', '2025-07-01 03:19:03.755704', '2025-07-01 03:19:03.755704']; alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21 FOR UPDATE; args=(1,); alias=default
+DEBUG (0.000) UPDATE `ecommerce_product` SET `name` = '¹ð»¨ÂÌ²è', `description` = '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', `price` = 5.00, `stock` = (`ecommerce_product`.`stock` - 2), `is_active` = 1, `created_at` = '2025-07-01 02:36:15.327816', `updated_at` = '2025-07-01 03:19:03.764706' WHERE `ecommerce_product`.`id` = 1; args=('¹ð»¨ÂÌ²è', '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', Decimal('5.00'), 2, True, '2025-07-01 02:36:15.327816', '2025-07-01 03:19:03.764706', 1); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21; args=(1,); alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_orderitem` (`order_id`, `product_id`, `quantity`, `price_at_purchase`, `status`, `failure_reason`) VALUES (2, 1, 2, 5.00, 'success', NULL); args=[2, 1, 2, Decimal('5.00'), 'success', None]; alias=default
+DEBUG (0.000) ROLLBACK; args=None; alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_orderitem` (`order_id`, `product_id`, `quantity`, `price_at_purchase`, `status`, `failure_reason`) VALUES (2, 1, 2, 0, 'failed', 'Î´Öª´íÎó'); args=[2, 1, 2, Decimal('0'), 'failed', 'Î´Öª´íÎó']; alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 2 LIMIT 21 FOR UPDATE; args=(2,); alias=default
+DEBUG (0.000) UPDATE `ecommerce_product` SET `name` = 'Ã¢¹ûà£à£', `description` = 'Ã¢¹ûºÃÏã', `price` = 6.00, `stock` = (`ecommerce_product`.`stock` - 1), `is_active` = 1, `created_at` = '2025-07-01 02:37:01.841266', `updated_at` = '2025-07-01 03:19:03.782711' WHERE `ecommerce_product`.`id` = 2; args=('Ã¢¹ûà£à£', 'Ã¢¹ûºÃÏã', Decimal('6.00'), 1, True, '2025-07-01 02:37:01.841266', '2025-07-01 03:19:03.782711', 2); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 2 LIMIT 21; args=(2,); alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_orderitem` (`order_id`, `product_id`, `quantity`, `price_at_purchase`, `status`, `failure_reason`) VALUES (2, 2, 1, 6.00, 'success', NULL); args=[2, 2, 1, Decimal('6.00'), 'success', None]; alias=default
+DEBUG (0.000) ROLLBACK; args=None; alias=default
+DEBUG (0.000) INSERT INTO `ecommerce_orderitem` (`order_id`, `product_id`, `quantity`, `price_at_purchase`, `status`, `failure_reason`) VALUES (2, 2, 1, 0, 'failed', 'Î´Öª´íÎó'); args=[2, 2, 1, Decimal('0'), 'failed', 'Î´Öª´íÎó']; alias=default
+DEBUG (0.016) UPDATE `ecommerce_order` SET `order_number` = '6efb6510-d91d-4ee8-af9c-5c2f23e6f0c4', `total_amount` = 16.00, `status` = 'failed', `created_at` = '2025-07-01 03:19:03.755704', `updated_at` = '2025-07-01 03:19:03.793712' WHERE `ecommerce_order`.`id` = 2; args=('6efb6510-d91d-4ee8-af9c-5c2f23e6f0c4', Decimal('16.00'), 'failed', '2025-07-01 03:19:03.755704', '2025-07-01 03:19:03.793712', 2); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.016) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default

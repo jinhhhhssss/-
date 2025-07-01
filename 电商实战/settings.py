@@ -111,6 +111,7 @@ CACHES = {
     }
 }
 
+REDIS_URL = CACHES['default']['LOCATION']
 # 日志配置
 LOGGING = {
     'version': 1,

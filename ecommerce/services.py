@@ -7,8 +7,6 @@ import redis
 from django.conf import settings
 
 logger = logging.getLogger(__name__)
-
-
 class InventoryService:
     @staticmethod
     def process_order_items(order_items_data):
@@ -23,6 +21,7 @@ class InventoryService:
         #循环处理订单
         for item_data in order_items_data:
             product_id = item_data.get('product_id')
+            print(product_id)
             quantity = item_data.get('quantity', 0)
             try:
                 #创建数据库事务的原子块
@@ -53,7 +52,6 @@ class InventoryService:
                         'success': True,
                         'new_stock': product.stock
                     })
-
                     # 更新商品缓存
                     product.update_cache()
 

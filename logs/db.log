@@ -1862,3 +1862,134 @@ DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecom
 DEBUG (0.000) INSERT INTO `ecommerce_orderitem` (`order_id`, `product_id`, `quantity`, `price_at_purchase`, `status`, `failure_reason`) VALUES (5, 2, 1, 6.00, 'success', NULL); args=[5, 2, 1, Decimal('6.00'), 'success', None]; alias=default
 DEBUG (0.000) COMMIT; args=None; alias=default
 DEBUG (0.016) UPDATE `ecommerce_order` SET `order_number` = 'dd63f4ce-eba5-4525-8630-db321d7536d9', `total_amount` = 16.00, `status` = 'success', `created_at` = '2025-07-01 05:03:04.670605', `updated_at` = '2025-07-01 05:03:08.763524' WHERE `ecommerce_order`.`id` = 5; args=('dd63f4ce-eba5-4525-8630-db321d7536d9', Decimal('16.00'), 'success', '2025-07-01 05:03:04.670605', '2025-07-01 05:03:08.763524', 5); alias=default
+DEBUG (0.016) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE (`ecommerce_product`.`is_active` = 1 AND `ecommerce_product`.`name` LIKE '%ÂÌ²è%') ORDER BY `ecommerce_product`.`updated_at` DESC LIMIT 50; args=(True, '%ÂÌ²è%'); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE (`ecommerce_product`.`is_active` = 1 AND `ecommerce_product`.`name` LIKE '%¿§·È%') ORDER BY `ecommerce_product`.`updated_at` DESC LIMIT 50; args=(True, '%¿§·È%'); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE (`ecommerce_product`.`is_active` = 1 AND `ecommerce_product`.`name` LIKE '%ÃÀÊ½%') ORDER BY `ecommerce_product`.`updated_at` DESC LIMIT 50; args=(True, '%ÃÀÊ½%'); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.016) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.016) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.047) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE (`ecommerce_product`.`is_active` = 1 AND `ecommerce_product`.`name` LIKE '%ÃÀÊ½%') ORDER BY `ecommerce_product`.`updated_at` DESC LIMIT 50; args=(True, '%ÃÀÊ½%'); alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product`; args=(); alias=default
+DEBUG (0.015) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.031) 
+            SELECT
+                table_name,
+                table_type,
+                table_comment
+            FROM information_schema.tables
+            WHERE table_schema = DATABASE()
+            ; args=None; alias=default
+DEBUG (0.000) SELECT `django_migrations`.`id`, `django_migrations`.`app`, `django_migrations`.`name`, `django_migrations`.`applied` FROM `django_migrations`; args=(); alias=default
+DEBUG (0.000) 
+                SELECT VERSION(),
+                       @@sql_mode,
+                       @@default_storage_engine,
+                       @@sql_auto_is_null,
+                       @@lower_case_table_names,
+                       CONVERT_TZ('2001-01-01 01:00:00', 'UTC', 'UTC') IS NOT NULL
+            ; args=None; alias=default
+DEBUG (0.000) SET SESSION TRANSACTION ISOLATION LEVEL READ COMMITTED; args=None; alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.031) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21 FOR UPDATE; args=(1,); alias=default
+DEBUG (0.032) UPDATE `ecommerce_product` SET `name` = '¹ð»¨ÂÌ²è', `description` = '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', `price` = 5.00, `stock` = 8, `is_active` = 1, `created_at` = '2025-07-01 02:36:15.327816', `updated_at` = '2025-07-01 06:44:03.208901' WHERE `ecommerce_product`.`id` = 1; args=('¹ð»¨ÂÌ²è', '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', Decimal('5.00'), 8, True, '2025-07-01 02:36:15.327816', '2025-07-01 06:44:03.208901', 1); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product`; args=(); alias=default
+DEBUG (0.000) BEGIN; args=None; alias=default
+DEBUG (0.000) SELECT `ecommerce_product`.`id`, `ecommerce_product`.`name`, `ecommerce_product`.`description`, `ecommerce_product`.`price`, `ecommerce_product`.`stock`, `ecommerce_product`.`is_active`, `ecommerce_product`.`created_at`, `ecommerce_product`.`updated_at` FROM `ecommerce_product` WHERE `ecommerce_product`.`id` = 1 LIMIT 21 FOR UPDATE; args=(1,); alias=default
+DEBUG (0.000) UPDATE `ecommerce_product` SET `name` = '¹ð»¨ÂÌ²è', `description` = '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', `price` = 5.00, `stock` = 100, `is_active` = 1, `created_at` = '2025-07-01 02:36:15.327816', `updated_at` = '2025-07-01 06:44:40.255614' WHERE `ecommerce_product`.`id` = 1; args=('¹ð»¨ÂÌ²è', '¹ð»¨ÇåÌð£¬ÂÌ²è·¼Ïã¡£', Decimal('5.00'), 100, True, '2025-07-01 02:36:15.327816', '2025-07-01 06:44:40.255614', 1); alias=default
+DEBUG (0.000) COMMIT; args=None; alias=default

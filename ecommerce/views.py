@@ -40,7 +40,7 @@ def process_batch_order(request):
 def search_products(request):
     try:
         keyword = request.GET.get('keyword', '').strip()
-        cache_only = request.GET.get('cache_only', 'false').lower() == 'true'
+        cache_only = request.GET.get('cache_only', 'true').lower() == 'true'
 
         if not keyword:
             return JsonResponse({'error': '搜索关键词不能为空'}, status=400)
@@ -90,7 +90,6 @@ def get_all_products(request):
 def update_product(request, product_id):
     try:
         data = json.loads(request.body)
-
         if not data:
             return JsonResponse({'error': '更新数据不能为空'}, status=400)
 

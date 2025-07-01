@@ -139,7 +139,7 @@ class ProductService:
         cache_key = f"search:products:{keyword}"
 
         try:
-            cached_results = r.lrange(cache_key, 0, -1)
+            cached_results = r.lrange(cache_key, 0, -1)# 获取列表的所有元素
             if cached_results and cache_only:
                 return [int(product_id) for product_id in cached_results]
 
@@ -188,6 +188,7 @@ class ProductService:
     def update_product(product_id, data):
         try:
             with transaction.atomic():
+                # 使用select_for_update()锁定商品行，阻止其他事务进行修改或删除操作
                 product = Product.objects.select_for_update().get(id=product_id)
 
                 # 更新商品信息

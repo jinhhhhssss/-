@@ -25,6 +25,7 @@ class Product(models.Model):
 
     @classmethod
     def get_from_cache(cls, product_id):
+        # Redis 缓存里获取单个商品的数据
         r = redis.Redis.from_url(settings.REDIS_URL)
         cache_key = f"product:{product_id}"
         product_data = r.hgetall(cache_key)
